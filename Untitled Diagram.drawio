@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T23:14:59.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="O_E_dzNFvNoynvIaWNpN" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-10T23:25:11.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rxXEQKFdAR8gcI4hnbCn" version="20.2.3" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="precificacao_nova_arquitetura">
     <mxGraphModel dx="2138" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jsCqH00N6Ezd92Ft7LSA" name="fluxograma_precificação_nova_arquitetura">
-    <mxGraphModel dx="1888" dy="2739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="2681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
         <mxCell id="y_w_9SjiZQBzQXQu_Xhb-12" value="SIMT103_FilterPricing.dmn" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="185" y="-230" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="y_w_9SjiZQBzQXQu_Xhb-13" value="se objetivo de financimento for igual ao que está cadastrado no camunda e data de criação da proposta/simulação for maior ou igual a data de entrada do projeto em produção ( data cadastrada no camunda)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="y_w_9SjiZQBzQXQu_Xhb-13" value="se objetivo de financimento for igual ao que está cadastrado no camunda e data de criação da proposta/simulação for maior ou igual a data de entrada do projeto em produção ( data cadastrada no camunda)&lt;br&gt;SIMT103_PRECIFICACAO_.dmn" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="155" y="-70" width="300" height="260" as="geometry" />
         </mxCell>
         <mxCell id="y_w_9SjiZQBzQXQu_Xhb-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#09555B;fontColor=#1A1A1A;" edge="1" parent="1" source="y_w_9SjiZQBzQXQu_Xhb-13" target="y_w_9SjiZQBzQXQu_Xhb-19">
